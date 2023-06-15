@@ -4,8 +4,8 @@ github_repo: RPS01
 github_url: https://github.com/mlab-modules/RPS01
 homepage: false
 images:
-- doc/img/RPS01A_top_big.jpg
 - doc/img/RPS01A_top_small.jpg
+- doc/img/RPS01A_top_big.jpg
 - doc/img/RPS01A_QRcode.png
 mark: 50
 tags: []
