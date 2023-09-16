@@ -8,7 +8,7 @@ images:
 - doc/img/RPS01A_top_small.jpg
 - doc/img/RPS01A_QRcode.png
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
